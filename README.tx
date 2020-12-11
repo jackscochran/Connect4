@@ -1,0 +1,6 @@
+This is a playable connect 4 game in python with options to play single player or multiplayer. 
+For the single player option, you play an ai that uses the minimax algorithm to generate all possible outcomes a certain number of moves in advanced. 
+In hard mode for example, the bot will look 4 moves into the future. 
+Under the assumption that you make the best possible choice on your turn, the computer will choose the move that will give the best ‘board score’ 4 moves ahead. 
+The GUI is programmed using the pygame module. 
+The code itself is organized using the object-oriented principles of programming, with the board and AI getting their own class and methods.
