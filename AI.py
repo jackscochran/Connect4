@@ -1,10 +1,10 @@
 #board rating system
-#center column: +4
-#lines of two: +2
-#lines of three: +5
-#4 in a row: +100000000
-#opp line of two: -2
-#opp winnable line of three: -100
+#center column: +3
+#lines of two: +5
+#lines of three: +15
+#4 in a row: +1000
+#opp line of two: -3
+#opp winnable line of three: -700
 import copy
 import random
 import math
